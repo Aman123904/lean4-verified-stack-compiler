@@ -1,0 +1,5 @@
+name = "StackCompiler"
+defaultTargets = ["StackCompiler"]
+
+[[lean_lib]]
+name = "StackCompiler"
